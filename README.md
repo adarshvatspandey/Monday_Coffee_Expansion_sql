@@ -1,12 +1,12 @@
 # ☕ Monday Coffee Expansion Analysis
 
 ## Project Overview
-![image](https://github.com/adarshvatspandey/Monday_Coffee_Expansion_sql/blob/def18c6e0b3cbaf998bd60d9930b7c75daa08cd8/logo.png)
+
 
 This SQL project analyzes coffee sales data across multiple cities to identify the best locations for business expansion.
 
 The project includes database design, data import, SQL analysis, and business recommendations based on customer behavior, revenue, and market potential.
-
+![image](https://github.com/adarshvatspandey/Monday_Coffee_Expansion_sql/blob/def18c6e0b3cbaf998bd60d9930b7c75daa08cd8/logo.png)
 ## Database Schema
 ![image](https://github.com/adarshvatspandey/Monday_Coffee_Expansion_sql/blob/def18c6e0b3cbaf998bd60d9930b7c75daa08cd8/ERD.png)
 

@@ -51,16 +51,3 @@ Relationships are maintained using Primary Keys and Foreign Keys.
 * High customer acquisition
 * Affordable rent
 * Strong average sales
-
-## Tools Used
-
-* PostgreSQL
-* SQL
-* CSV Datasets
-* GitHub
-
-## Author
-
-Adarsh
-Electronics & Communication Engineering Student
-Aspiring Data Analyst
